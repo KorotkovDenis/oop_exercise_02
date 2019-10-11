@@ -8,9 +8,9 @@ signed main() {
     unsigned long long rpo;
     int rsh, rpe;
     double div, prod;
-    std::cin >> rpo >> rsh >> rpe;
+    money r;
+    std::cin >> r;
     std::cin >> div >> prod;
-    money r {rpo, (unsigned char)(rsh), (unsigned char)(rpe)};
     money t;
     t = 1_po + 2_sh + 3_pe;
     money res {};
@@ -27,7 +27,7 @@ signed main() {
     std::cout << "==: " << comp << '\n';
     std::cout << "sum: ";
     res = l + r;
-    res.m_print(std::cout);
+    std::cout << res;
     std::cout << "digital division: ";
     res = l / div;
     res.m_print(std::cout);
