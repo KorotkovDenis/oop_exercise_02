@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bftbg/oop/lab2/Money.cpp
+Money.hpp
+/home/bftbg/oop/lab2/Money.hpp
+iostream
+-
+
+/home/bftbg/oop/lab2/Money.hpp
+iostream
+-
+
+/home/bftbg/oop/lab2/main.cpp
+Money.hpp
+/home/bftbg/oop/lab2/Money.hpp
+iostream
+-
+
