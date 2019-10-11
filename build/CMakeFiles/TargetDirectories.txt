@@ -1,3 +1,0 @@
-/home/bftbg/oop/lab2/build/CMakeFiles/rebuild_cache.dir
-/home/bftbg/oop/lab2/build/CMakeFiles/lab2.dir
-/home/bftbg/oop/lab2/build/CMakeFiles/edit_cache.dir
