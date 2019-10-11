@@ -7,4 +7,4 @@ add_executable(lab2
         Money.cpp
         )
 
-set_property(TARGET lab2 PROPERTY CXX_STANDART 17)
+set_property(TARGET lab2 PROPERTY CXX_STANDARD` 17)
